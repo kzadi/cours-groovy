@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.variables
+package com.j4ltechnologies.groovy.types
 
 import java.time.LocalDate
 

@@ -4,13 +4,13 @@ package com.j4ltechnologies.groovy.iterations
 // LA BOUCLE FOR
 // -------------
 String message = '';
-for (int i = 1; i <= 5; i++) {
+for (def i = 1; i <= 5; i++) {
     printf 'Bonjour %s fois\n', i
 }
 
 print '==========================\n'
 
-for (i in 1..5) {
+for (def i in 1..5) {
     printf 'Bonjour %s fois\n', i
 }
 
@@ -29,7 +29,7 @@ print '==========================\n'
 def tab = []
 def compteur = 5
 
-for (int factorielle = 1, i = 1; i <= compteur; i++, factorielle *= i) {
+for (def factorielle = 1, i = 1; i <= compteur; i++, factorielle *= i) {
     tab << factorielle
 }
 assert tab == [1, 2, 6, 24, 120]
@@ -51,14 +51,14 @@ assert baNums == ["bar 50", "bas 51", "bat 52", "bau 53", "bav 54"]
 
 // itération sur une plage
 def xx = 0
-for (i in 0..9) {
+for (def i in 0..9) {
     xx += i
 }
 assert xx == 45
 
 // itération sur une liste
 m = 0
-for (i in [0, 1, 2, 3, 4]) {
+for (def i in [0, 1, 2, 3, 4]) {
     m += i
 }
 assert m == 10
@@ -66,7 +66,7 @@ assert m == 10
 // itération sur un tableau
 def array = (0..4).toArray()
 m = 0
-for (i in array) {
+for (def i in array) {
     m += i
 }
 assert m == 10
@@ -74,14 +74,14 @@ assert m == 10
 // itération sur une map
 def map = ['abc': 1, 'def': 2, 'xyz': 3]
 m = 0
-for (e in map) {
+for (def e in map) {
     m += e.value
 }
 assert m == 6
 
 // itération sur les valeurs d'une map
 m = 0
-for (v in map.values()) {
+for (def v in map.values()) {
     m += v
 }
 assert m == 6

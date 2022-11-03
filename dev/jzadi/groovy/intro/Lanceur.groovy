@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.intro
+package dev.jzadi.groovy.intro
 
 /*
  * Point besoin de creer une classe pour ecrire

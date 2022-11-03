@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.methodes
+package dev.jzadi.groovy.methodes
 
 // Declaration d'une methode
 def ditBonjour() {

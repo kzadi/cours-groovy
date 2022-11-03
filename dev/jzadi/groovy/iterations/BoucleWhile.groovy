@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.iterations
+package dev.jzadi.groovy.iterations
 
 // BOUCLE WHILE
 

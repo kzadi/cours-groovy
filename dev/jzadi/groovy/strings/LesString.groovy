@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.strings
+package dev.jzadi.groovy.strings
 
 def nom = "Joachim";
 println nom

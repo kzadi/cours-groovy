@@ -1,7 +1,4 @@
-package com.j4ltechnologies.groovy.types
-
-import java.time.LocalDate
-
+package dev.jzadi.groovy.types
 // LES TYPES DE DONNEES EN GROOVY
 
 //byte --> Entier signé, codé sur 1 octet soit 8 bits

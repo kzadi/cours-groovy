@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.lists
+package dev.jzadi.groovy.lists
 
 // Groovy utilise une liste de valeurs séparées par des virgules,
 // entourées de crochets, pour désigner les listes.

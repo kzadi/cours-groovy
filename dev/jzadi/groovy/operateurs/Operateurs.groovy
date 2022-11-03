@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.operateurs
+package dev.jzadi.groovy.operateurs
 
 //https://groovy-lang.org/operators.html
 

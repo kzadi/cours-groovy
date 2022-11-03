@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.io
+package dev.jzadi.groovy.io
 
 // Entree Sortie
 print 'Saisir votre prenom : '

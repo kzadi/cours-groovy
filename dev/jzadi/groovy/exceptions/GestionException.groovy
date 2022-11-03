@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.exceptions
+package dev.jzadi.groovy.exceptions
 
 //int i = 1 / 0;
 try {

@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.conditions
+package dev.jzadi.groovy.conditions
 
 // LES STRUCTURES DE CONTROLES
 // ===========================

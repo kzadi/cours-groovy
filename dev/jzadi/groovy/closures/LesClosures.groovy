@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.closures
+package dev.jzadi.groovy.closures
 
 //Une définition d'une closure suit cette syntaxe
 

@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.variables
+package dev.jzadi.groovy.variables
 
 // Le mot cle def permet de definir une variable en groovy
 // NB : Le nom d'une variable ne peut commencer par un nombre

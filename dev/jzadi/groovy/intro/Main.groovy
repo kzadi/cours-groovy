@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.intro
+package dev.jzadi.groovy.intro
 
 /**
  * Classe Main, créée le 19/10/2022 à 09:51

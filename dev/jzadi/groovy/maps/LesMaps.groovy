@@ -1,4 +1,4 @@
-package com.j4ltechnologies.groovy.maps
+package dev.jzadi.groovy.maps
 
 // Groovy étend l'API Map en Java pour fournir des méthodes pour des opérations telles que le filtrage,
 // la recherche et le tri. Il fournit également une variété de raccourcis pour créer et manipuler des Map.
